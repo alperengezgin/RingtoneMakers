@@ -1,0 +1,16 @@
+PODS:
+  - ringtoneMaker (0.1.0)
+
+DEPENDENCIES:
+  - ringtoneMaker (from `../`)
+
+EXTERNAL SOURCES:
+  ringtoneMaker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ringtoneMaker: 9e1039060a7a68f9377ed66f5d002fac70f6177d
+
+PODFILE CHECKSUM: bf18e73a2db02ec52d93d06748451442aecad714
+
+COCOAPODS: 1.11.3

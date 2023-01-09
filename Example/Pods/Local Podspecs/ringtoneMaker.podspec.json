@@ -1,0 +1,22 @@
+{
+  "name": "ringtoneMaker",
+  "version": "0.1.0",
+  "summary": "A short description of ringtoneMaker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alperen Polat GEZGIN/ringtoneMaker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alperen Polat GEZGIN": "alperengezgin@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Alperen Polat GEZGIN/ringtoneMaker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ringtoneMaker/Classes/**/*"
+}

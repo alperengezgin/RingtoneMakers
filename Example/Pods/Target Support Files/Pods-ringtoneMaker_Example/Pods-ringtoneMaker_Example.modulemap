@@ -1,0 +1,6 @@
+framework module Pods_ringtoneMaker_Example {
+  umbrella header "Pods-ringtoneMaker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
