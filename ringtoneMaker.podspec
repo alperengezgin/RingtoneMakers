@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-    s.name             = 'RingtoneMaker'
+    s.name             = 'ringtoneMaker'
     s.version          = '0.1.0'
     s.summary          = 'test'
     
