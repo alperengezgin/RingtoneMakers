@@ -32,8 +32,7 @@ Pod::Spec.new do |s|
         'ringtoneMaker' => ['ringtoneMaker/Assets/*.{png,json,xcassets,xib,band}']
     }
     
-    s.frameworks = 'UIKit', 'WebKit'
-    s.dependency 'SwiftyUserDefaults'
+    s.frameworks = 'UIKit', 'MediaPlayer', 'Photos', 'AVKit', 'MobileCoreServices', 'AVFoundation'
     
   
 end
