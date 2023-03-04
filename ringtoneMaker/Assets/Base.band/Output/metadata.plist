@@ -15,9 +15,11 @@
 	<key>com_apple_garageband_metadata_hasMasterRTRegions</key>
 	<false/>
 	<key>com_apple_garageband_metadata_machine</key>
-	<string>iPhone7,2</string>
+	<string>iPhone15,3</string>
 	<key>com_apple_garageband_metadata_mediaTrackType</key>
 	<string>Undefined</string>
+	<key>com_apple_garageband_metadata_numberOfArrangeAlchemyTracks</key>
+	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfArrangeDrummerTracks</key>
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfArrangeTracks</key>
@@ -42,8 +44,6 @@
 	<integer>0</integer>
 	<key>com_apple_garageband_metadata_numberOfVisibleArrangeTracks</key>
 	<integer>1</integer>
-	<key>com_apple_garageband_metadata_parentalAdvisory</key>
-	<string>None</string>
 	<key>com_apple_garageband_metadata_songDuration</key>
 	<real>34.145464852607709</real>
 	<key>com_apple_garageband_metadata_songGender</key>
@@ -65,7 +65,7 @@
 	<key>com_apple_mobileGarageBand_metadata_contentVersionNumber</key>
 	<integer>2</integer>
 	<key>com_apple_mobilegarageband_metadata_songVersionNumber</key>
-	<integer>7</integer>
+	<integer>13</integer>
 	<key>kDfMetaDataKey_numberOfRootRegions</key>
 	<integer>1</integer>
 	<key>plistVersion</key>

@@ -50,12 +50,12 @@
 		1CE3B10B68A31A647F1E30A5E2EDB29A /* ringtoneMaker.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ringtoneMaker.debug.xcconfig; sourceTree = "<group>"; };
 		2ADE282267D2EF437EF917A8FDDAD266 /* Pods-ringtoneMaker_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ringtoneMaker_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		2C6C25B2A5B342354B56E5526DA8084E /* Pods-ringtoneMaker_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ringtoneMaker_Example-umbrella.h"; sourceTree = "<group>"; };
-		2C7DBC56296BC31900B72122 /* FileManagers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagers.swift; sourceTree = "<group>"; };
-		2C7DBC58296BC34C00B72122 /* Ringtone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ringtone.swift; sourceTree = "<group>"; };
-		2C7DBC5A296BC5C500B72122 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		2C7DBC5C296BC68600B72122 /* Fader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fader.swift; sourceTree = "<group>"; };
-		2C7DBC5E296BC6AC00B72122 /* GaragebandManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GaragebandManager.swift; sourceTree = "<group>"; };
-		2C7DBC60296BCDB000B72122 /* Base.band */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Base.band; sourceTree = "<group>"; };
+		2C7DBC56296BC31900B72122 /* FileManagers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = FileManagers.swift; path = ringtoneMaker/Classes/FileManagers.swift; sourceTree = "<group>"; };
+		2C7DBC58296BC34C00B72122 /* Ringtone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Ringtone.swift; path = ringtoneMaker/Classes/Ringtone.swift; sourceTree = "<group>"; };
+		2C7DBC5A296BC5C500B72122 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = ringtoneMaker/Classes/Extensions.swift; sourceTree = "<group>"; };
+		2C7DBC5C296BC68600B72122 /* Fader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Fader.swift; path = ringtoneMaker/Classes/Fader.swift; sourceTree = "<group>"; };
+		2C7DBC5E296BC6AC00B72122 /* GaragebandManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GaragebandManager.swift; path = ringtoneMaker/Classes/GaragebandManager.swift; sourceTree = "<group>"; };
+		2C7DBC60296BCDB000B72122 /* Base.band */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Base.band; path = ringtoneMaker/Assets/Base.band; sourceTree = "<group>"; };
 		3080FF2B84C598276A3F119C918B7D1B /* Pods-ringtoneMaker_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ringtoneMaker_Tests-Info.plist"; sourceTree = "<group>"; };
 		361567EE67FE8B884422B1A586726858 /* Pods-ringtoneMaker_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-ringtoneMaker_Tests"; path = Pods_ringtoneMaker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		461E040217BA9B4032189C03E8DDE2A9 /* ringtoneMaker-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ringtoneMaker-prefix.pch"; sourceTree = "<group>"; };
